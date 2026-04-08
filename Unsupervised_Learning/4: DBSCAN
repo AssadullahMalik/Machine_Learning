@@ -1,0 +1,9 @@
+from scipy.cluster.hierarchy import dendrogram, linkage
+import matplotlib.pyplot as plt
+
+X = [[1], [2], [3], [8], [9]]
+
+linked = linkage(X, 'ward')
+
+dendrogram(linked)
+plt.show()
