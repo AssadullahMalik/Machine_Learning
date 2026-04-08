@@ -1,0 +1,16 @@
+import matplotlib.pyplot as plt
+from sklearn.cluster import KMeans
+
+X = [[1], [2], [3], [8], [9], [10]]
+
+wcss = []
+
+for i in range(1, 6):
+    model = KMeans(n_clusters=i)
+    model.fit(X)
+    wcss.append(model.inertia_)
+
+plt.plot(range(1, 6), wcss)
+plt.xlabel("Clusters")
+plt.ylabel("WCSS")
+plt.show()
