@@ -131,9 +131,9 @@ frontend/index.html
 
 ## 📸 Screenshots
 
-*(Add your UI screenshots here)*
+<img width="1890" height="871" alt="image" src="https://github.com/user-attachments/assets/84bc8831-152f-42ad-b7c1-3681ba870425" />
+<img width="768" height="870" alt="image" src="https://github.com/user-attachments/assets/00a55d08-05b2-4788-ad9d-2e22a9c08513" />
 
----
 
 ## 📥 Output Example
 
