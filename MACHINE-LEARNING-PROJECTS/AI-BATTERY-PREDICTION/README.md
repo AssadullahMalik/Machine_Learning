@@ -133,6 +133,8 @@ frontend/index.html
 
 <img width="1890" height="871" alt="image" src="https://github.com/user-attachments/assets/84bc8831-152f-42ad-b7c1-3681ba870425" />
 <img width="768" height="870" alt="image" src="https://github.com/user-attachments/assets/00a55d08-05b2-4788-ad9d-2e22a9c08513" />
+<img width="1854" height="861" alt="image" src="https://github.com/user-attachments/assets/b34201c7-4201-4803-b74f-2b8e0fb48311" />
+<img width="1867" height="876" alt="image" src="https://github.com/user-attachments/assets/04b52c23-3de3-4e31-b422-c37d55f2576b" />
 
 
 ## 📥 Output Example
